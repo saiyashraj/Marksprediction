@@ -35,7 +35,7 @@ The app uses a pre-trained Linear Regression model (`exam_score.pkl`) built with
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/exam-score-predictor.git
+    git clone https://github.com/saiyashraj/exam-score-predictor.git
     cd exam-score-predictor
     ```
 
